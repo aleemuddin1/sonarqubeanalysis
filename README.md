@@ -1,2 +1,1 @@
-# sonarqubeanalysis
-sonar_analysis1
+# SonarQube-code-analysis-for-maven
